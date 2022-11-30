@@ -11,7 +11,7 @@ We will see about the "distributed" part later.
 Here's a representation of a simple (single branch) change history, where the arrow indicates time, each dot represents a different *version*
 
 <p align="center">
-<img title="a simple linear history" src="https://raw.githubusercontent.com/neutrinoceros/git_course/main/intro/docs/single_branch_linear_history.png">
+<img title="a simple linear history" src="single_branch_linear_history.png">
 </p>
 
 (We will see more interesting examples later).

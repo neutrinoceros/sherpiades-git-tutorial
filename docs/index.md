@@ -13,7 +13,7 @@ In this document, you will learn the fundamentals of version-control, and we'll 
 - resolve history conflict
 - visualize the current state (`git status`, `git diff`, `git branch`)
 
-Of course,mMastering `git` goes well beyond the scope of the present document.
+Of course, mastering `git` goes well beyond the scope of the present document.
 In particular, the following topics will *not* be covered, but are no less important:
 
 - collaboration (sharing a project with other persons)
